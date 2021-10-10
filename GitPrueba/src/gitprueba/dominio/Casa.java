@@ -9,6 +9,11 @@ public class Casa {
 <<<<<<< HEAD
     private String atributoDesdeCasa;
     private Integer id;
+<<<<<<< HEAD
     private String atributoCreadoDesdeMaster;
+=======
+    private String atributoNuevoDesdeCasa
+    
+>>>>>>> casa
 
 }
