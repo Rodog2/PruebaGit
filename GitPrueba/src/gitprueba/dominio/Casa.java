@@ -9,6 +9,7 @@ public class Casa {
 <<<<<<< HEAD
     private String atributoDesdeCasa;
     private Integer id;
+    private String atributoDesdeCasa
     
 
 }
